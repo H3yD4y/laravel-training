@@ -14,12 +14,7 @@
     Default radio
   </label>
 </div>
-<div class="form-check">
-  <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="option2">
-  <label class="form-check-label" for="exampleRadios2">
-    Second default radio
-  </label>
-</div>
+
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
 @endsection
